@@ -1,1 +1,1 @@
-# qr-img
+QR Code Project
